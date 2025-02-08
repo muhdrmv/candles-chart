@@ -60,7 +60,7 @@ const CandlestickChart = () => {
       "xMax": 1738662000000,
       "yMin": 2811.855,
       "yMax": 2819.305,
-      "backgroundColor": "rgba(143, 206, 48, 0.05)",
+      "backgroundColor": "rgba(123, 154, 198, 0.06)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -70,7 +70,7 @@ const CandlestickChart = () => {
       "xMax": 1738673400000,
       "yMin": 2812.89,
       "yMax": 2821.88,
-      "backgroundColor": "rgba(174, 195, 145, 0.13)",
+      "backgroundColor": "rgba(166, 91, 170, 0.13)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -80,7 +80,7 @@ const CandlestickChart = () => {
       "xMax": 1738679100000,
       "yMin": 2829.03,
       "yMax": 2837.245,
-      "backgroundColor": "rgba(63, 192, 144, 0.06)",
+      "backgroundColor": "rgba(36, 210, 47, 0.04)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -90,7 +90,7 @@ const CandlestickChart = () => {
       "xMax": 1738681200000,
       "yMin": 2838.08,
       "yMax": 2841.345,
-      "backgroundColor": "rgba(122, 98, 168, 0.10)",
+      "backgroundColor": "rgba(130, 68, 107, 0.12)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -100,87 +100,17 @@ const CandlestickChart = () => {
       "xMax": 1738683000000,
       "yMin": 2840.205,
       "yMax": 2844.435,
-      "backgroundColor": "rgba(221, 68, 108, 0.01)",
+      "backgroundColor": "rgba(80, 40, 195, 0.02)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
     {
       "type": "box",
-      "xMin": 1738684500000,
-      "xMax": 1738685400000,
+      "xMin": 1738683000000,
+      "xMax": 1738715400000,
       "yMin": 2832.685,
-      "yMax": 2838.595,
-      "backgroundColor": "rgba(126, 40, 1, 0.15)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738686300000,
-      "xMax": 1738689300000,
-      "yMin": 2839.435,
-      "yMax": 2842.475,
-      "backgroundColor": "rgba(220, 199, 101, 0.11)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738690200000,
-      "xMax": 1738691400000,
-      "yMin": 2841.81,
-      "yMax": 2844.565,
-      "backgroundColor": "rgba(162, 238, 5, 0.04)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738692900000,
-      "xMax": 1738694400000,
-      "yMin": 2842.735,
-      "yMax": 2844.895,
-      "backgroundColor": "rgba(215, 19, 235, 0.00)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738696200000,
-      "xMax": 1738697700000,
-      "yMin": 2841.98,
-      "yMax": 2844.125,
-      "backgroundColor": "rgba(85, 67, 208, 0.09)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738698000000,
-      "xMax": 1738702500000,
-      "yMin": 2841.045,
-      "yMax": 2844.21,
-      "backgroundColor": "rgba(101, 68, 64, 0.13)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738705200000,
-      "xMax": 1738712700000,
-      "yMin": 2840.645,
-      "yMax": 2842.555,
-      "backgroundColor": "rgba(29, 29, 172, 0.13)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738713600000,
-      "xMax": 1738715100000,
-      "yMin": 2840.735,
-      "yMax": 2842.42,
-      "backgroundColor": "rgba(113, 226, 201, 0.18)",
+      "yMax": 2845.46,
+      "backgroundColor": "rgba(95, 122, 81, 0.05)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -190,7 +120,7 @@ const CandlestickChart = () => {
       "xMax": 1738721100000,
       "yMin": 2839.8,
       "yMax": 2849.015,
-      "backgroundColor": "rgba(183, 34, 142, 0.15)",
+      "backgroundColor": "rgba(28, 228, 110, 0.08)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -200,7 +130,7 @@ const CandlestickChart = () => {
       "xMax": 1738725600000,
       "yMin": 2847.92,
       "yMax": 2853.885,
-      "backgroundColor": "rgba(69, 187, 211, 0.18)",
+      "backgroundColor": "rgba(40, 214, 13, 0.13)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -210,17 +140,17 @@ const CandlestickChart = () => {
       "xMax": 1738728600000,
       "yMin": 2851.895,
       "yMax": 2854.48,
-      "backgroundColor": "rgba(204, 85, 0, 0.18)",
+      "backgroundColor": "rgba(128, 177, 78, 0.04)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
     {
       "type": "box",
-      "xMin": 1738729500000,
-      "xMax": 1738730400000,
-      "yMin": 2855.395,
-      "yMax": 2857.01,
-      "backgroundColor": "rgba(61, 199, 104, 0.05)",
+      "xMin": 1738730400000,
+      "xMax": 1738734000000,
+      "yMin": 2853.715,
+      "yMax": 2858.19,
+      "backgroundColor": "rgba(223, 37, 195, 0.14)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -230,7 +160,7 @@ const CandlestickChart = () => {
       "xMax": 1738736400000,
       "yMin": 2857.27,
       "yMax": 2860.665,
-      "backgroundColor": "rgba(190, 162, 221, 0.20)",
+      "backgroundColor": "rgba(158, 102, 67, 0.04)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -240,7 +170,7 @@ const CandlestickChart = () => {
       "xMax": 1738742100000,
       "yMin": 2855.02,
       "yMax": 2861.905,
-      "backgroundColor": "rgba(89, 52, 78, 0.06)",
+      "backgroundColor": "rgba(229, 165, 151, 0.17)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -250,7 +180,7 @@ const CandlestickChart = () => {
       "xMax": 1738743300000,
       "yMin": 2863.755,
       "yMax": 2865.485,
-      "backgroundColor": "rgba(40, 199, 212, 0.10)",
+      "backgroundColor": "rgba(209, 21, 182, 0.02)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -260,7 +190,7 @@ const CandlestickChart = () => {
       "xMax": 1738744800000,
       "yMin": 2864.775,
       "yMax": 2866.675,
-      "backgroundColor": "rgba(78, 28, 148, 0.08)",
+      "backgroundColor": "rgba(234, 37, 41, 0.10)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -270,27 +200,17 @@ const CandlestickChart = () => {
       "xMax": 1738747200000,
       "yMin": 2865.505,
       "yMax": 2869.705,
-      "backgroundColor": "rgba(68, 54, 190, 0.03)",
+      "backgroundColor": "rgba(189, 11, 248, 0.20)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
     {
       "type": "box",
-      "xMin": 1738747800000,
-      "xMax": 1738748400000,
-      "yMin": 2869.29,
-      "yMax": 2870.445,
-      "backgroundColor": "rgba(195, 166, 208, 0.02)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738749600000,
-      "xMax": 1738750800000,
-      "yMin": 2869.56,
-      "yMax": 2872.04,
-      "backgroundColor": "rgba(62, 134, 36, 0.04)",
+      "xMin": 1738750800000,
+      "xMax": 1738751400000,
+      "yMin": 2871.235,
+      "yMax": 2872.27,
+      "backgroundColor": "rgba(235, 181, 0, 0.12)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -300,7 +220,17 @@ const CandlestickChart = () => {
       "xMax": 1738769100000,
       "yMin": 2858.73,
       "yMax": 2877.105,
-      "backgroundColor": "rgba(38, 91, 123, 0.04)",
+      "backgroundColor": "rgba(94, 237, 19, 0.19)",
+      "borderColor": "green",
+      "borderWidth": 0.5
+    },
+    {
+      "type": "box",
+      "xMin": 1738769100000,
+      "xMax": 1738770000000,
+      "yMin": 2873.885,
+      "yMax": 2877.485,
+      "backgroundColor": "rgba(47, 175, 139, 0.15)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -310,7 +240,17 @@ const CandlestickChart = () => {
       "xMax": 1738941300000,
       "yMin": 2834.26,
       "yMax": 2882.42,
-      "backgroundColor": "rgba(67, 128, 11, 0.09)",
+      "backgroundColor": "rgba(165, 37, 227, 0.12)",
+      "borderColor": "green",
+      "borderWidth": 0.5
+    },
+    {
+      "type": "box",
+      "xMin": 1738943100000,
+      "xMax": 1738965300000,
+      "yMin": 2853.435,
+      "yMax": 2886.81,
+      "backgroundColor": "rgba(174, 6, 204, 0.15)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -320,7 +260,7 @@ const CandlestickChart = () => {
       "xMax": 1738660800000,
       "yMin": 2811.855,
       "yMax": 2817.81,
-      "backgroundColor": "rgba(219, 57, 105, 0.00)",
+      "backgroundColor": "rgba(75, 84, 147, 0.01)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -330,7 +270,7 @@ const CandlestickChart = () => {
       "xMax": 1738668600000,
       "yMin": 2813.355,
       "yMax": 2816.035,
-      "backgroundColor": "rgba(85, 180, 245, 0.10)",
+      "backgroundColor": "rgba(194, 190, 106, 0.02)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -340,7 +280,7 @@ const CandlestickChart = () => {
       "xMax": 1738669800000,
       "yMin": 2814.36,
       "yMax": 2816.84,
-      "backgroundColor": "rgba(211, 199, 241, 0.09)",
+      "backgroundColor": "rgba(195, 104, 142, 0.19)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -350,37 +290,87 @@ const CandlestickChart = () => {
       "xMax": 1738673100000,
       "yMin": 2819.105,
       "yMax": 2820.8,
-      "backgroundColor": "rgba(168, 86, 89, 0.20)",
+      "backgroundColor": "rgba(177, 168, 250, 0.11)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
     {
       "type": "box",
-      "xMin": 1738687200000,
-      "xMax": 1738689000000,
+      "xMin": 1738684500000,
+      "xMax": 1738685400000,
+      "yMin": 2832.685,
+      "yMax": 2838.595,
+      "backgroundColor": "rgba(21, 205, 225, 0.06)",
+      "borderColor": "green",
+      "borderWidth": 0.5
+    },
+    {
+      "type": "box",
+      "xMin": 1738686300000,
+      "xMax": 1738689300000,
       "yMin": 2839.435,
-      "yMax": 2842.315,
-      "backgroundColor": "rgba(50, 129, 9, 0.17)",
+      "yMax": 2842.475,
+      "backgroundColor": "rgba(45, 107, 211, 0.20)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
     {
       "type": "box",
-      "xMin": 1738699500000,
+      "xMin": 1738690200000,
+      "xMax": 1738691400000,
+      "yMin": 2841.81,
+      "yMax": 2844.565,
+      "backgroundColor": "rgba(78, 44, 22, 0.05)",
+      "borderColor": "green",
+      "borderWidth": 0.5
+    },
+    {
+      "type": "box",
+      "xMin": 1738692900000,
+      "xMax": 1738694400000,
+      "yMin": 2842.735,
+      "yMax": 2844.895,
+      "backgroundColor": "rgba(103, 227, 151, 0.01)",
+      "borderColor": "green",
+      "borderWidth": 0.5
+    },
+    {
+      "type": "box",
+      "xMin": 1738696200000,
+      "xMax": 1738697700000,
+      "yMin": 2841.98,
+      "yMax": 2844.125,
+      "backgroundColor": "rgba(158, 135, 114, 0.02)",
+      "borderColor": "green",
+      "borderWidth": 0.5
+    },
+    {
+      "type": "box",
+      "xMin": 1738698000000,
       "xMax": 1738702500000,
       "yMin": 2841.045,
-      "yMax": 2844.145,
-      "backgroundColor": "rgba(200, 47, 75, 0.10)",
+      "yMax": 2844.21,
+      "backgroundColor": "rgba(172, 151, 71, 0.06)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
     {
       "type": "box",
-      "xMin": 1738705800000,
+      "xMin": 1738705200000,
       "xMax": 1738712700000,
       "yMin": 2840.645,
-      "yMax": 2842.395,
-      "backgroundColor": "rgba(46, 132, 142, 0.17)",
+      "yMax": 2842.555,
+      "backgroundColor": "rgba(160, 208, 12, 0.18)",
+      "borderColor": "green",
+      "borderWidth": 0.5
+    },
+    {
+      "type": "box",
+      "xMin": 1738713600000,
+      "xMax": 1738715100000,
+      "yMin": 2840.735,
+      "yMax": 2842.42,
+      "backgroundColor": "rgba(106, 213, 186, 0.13)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -390,7 +380,7 @@ const CandlestickChart = () => {
       "xMax": 1738720800000,
       "yMin": 2839.8,
       "yMax": 2847.065,
-      "backgroundColor": "rgba(84, 155, 174, 0.12)",
+      "backgroundColor": "rgba(117, 237, 197, 0.10)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -400,7 +390,7 @@ const CandlestickChart = () => {
       "xMax": 1738725000000,
       "yMin": 2847.92,
       "yMax": 2852.97,
-      "backgroundColor": "rgba(121, 239, 216, 0.16)",
+      "backgroundColor": "rgba(117, 149, 81, 0.04)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -410,7 +400,7 @@ const CandlestickChart = () => {
       "xMax": 1738728600000,
       "yMin": 2851.895,
       "yMax": 2854.255,
-      "backgroundColor": "rgba(206, 55, 226, 0.15)",
+      "backgroundColor": "rgba(40, 119, 201, 0.16)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -420,7 +410,7 @@ const CandlestickChart = () => {
       "xMax": 1738738200000,
       "yMin": 2859.905,
       "yMax": 2861.375,
-      "backgroundColor": "rgba(20, 196, 178, 0.06)",
+      "backgroundColor": "rgba(51, 116, 119, 0.07)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -430,7 +420,7 @@ const CandlestickChart = () => {
       "xMax": 1738741500000,
       "yMin": 2857.66,
       "yMax": 2859.435,
-      "backgroundColor": "rgba(59, 236, 91, 0.19)",
+      "backgroundColor": "rgba(170, 40, 26, 0.19)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -440,7 +430,7 @@ const CandlestickChart = () => {
       "xMax": 1738747200000,
       "yMin": 2865.505,
       "yMax": 2869.56,
-      "backgroundColor": "rgba(244, 159, 0, 0.10)",
+      "backgroundColor": "rgba(140, 222, 194, 0.07)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -450,7 +440,7 @@ const CandlestickChart = () => {
       "xMax": 1738754700000,
       "yMin": 2864.86,
       "yMax": 2869.83,
-      "backgroundColor": "rgba(155, 114, 53, 0.13)",
+      "backgroundColor": "rgba(111, 81, 97, 0.16)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -460,7 +450,7 @@ const CandlestickChart = () => {
       "xMax": 1738759800000,
       "yMin": 2867.11,
       "yMax": 2870.535,
-      "backgroundColor": "rgba(197, 247, 193, 0.04)",
+      "backgroundColor": "rgba(216, 189, 75, 0.09)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -470,7 +460,7 @@ const CandlestickChart = () => {
       "xMax": 1738766700000,
       "yMin": 2858.73,
       "yMax": 2870.89,
-      "backgroundColor": "rgba(129, 216, 240, 0.11)",
+      "backgroundColor": "rgba(123, 6, 151, 0.08)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -480,7 +470,7 @@ const CandlestickChart = () => {
       "xMax": 1738769100000,
       "yMin": 2873.07,
       "yMax": 2876.505,
-      "backgroundColor": "rgba(139, 62, 153, 0.01)",
+      "backgroundColor": "rgba(137, 9, 108, 0.05)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -490,7 +480,7 @@ const CandlestickChart = () => {
       "xMax": 1738774200000,
       "yMin": 2869.64,
       "yMax": 2871.605,
-      "backgroundColor": "rgba(92, 181, 80, 0.11)",
+      "backgroundColor": "rgba(235, 125, 127, 0.19)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -500,7 +490,7 @@ const CandlestickChart = () => {
       "xMax": 1738938900000,
       "yMin": 2834.26,
       "yMax": 2876.76,
-      "backgroundColor": "rgba(214, 151, 211, 0.14)",
+      "backgroundColor": "rgba(228, 219, 233, 0.11)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -510,7 +500,7 @@ const CandlestickChart = () => {
       "xMax": 1738940400000,
       "yMin": 2873.19,
       "yMax": 2878.375,
-      "backgroundColor": "rgba(4, 41, 201, 0.10)",
+      "backgroundColor": "rgba(26, 253, 244, 0.03)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -520,7 +510,7 @@ const CandlestickChart = () => {
       "xMax": 1738965300000,
       "yMin": 2853.435,
       "yMax": 2885.155,
-      "backgroundColor": "rgba(237, 66, 242, 0.09)",
+      "backgroundColor": "rgba(203, 78, 225, 0.15)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -530,27 +520,37 @@ const CandlestickChart = () => {
       "xMax": 1738660500000,
       "yMin": 2814.21,
       "yMax": 2816.8,
-      "backgroundColor": "rgba(92, 195, 43, 0.17)",
+      "backgroundColor": "rgba(204, 120, 33, 0.00)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
     {
       "type": "box",
-      "xMin": 1738701900000,
+      "xMin": 1738687200000,
+      "xMax": 1738689000000,
+      "yMin": 2839.435,
+      "yMax": 2842.315,
+      "backgroundColor": "rgba(212, 22, 72, 0.15)",
+      "borderColor": "green",
+      "borderWidth": 0.5
+    },
+    {
+      "type": "box",
+      "xMin": 1738699500000,
       "xMax": 1738702500000,
-      "yMin": 2842.69,
-      "yMax": 2844.01,
-      "backgroundColor": "rgba(117, 75, 60, 0.12)",
+      "yMin": 2841.045,
+      "yMax": 2844.145,
+      "backgroundColor": "rgba(128, 47, 228, 0.03)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
     {
       "type": "box",
-      "xMin": 1738710600000,
-      "xMax": 1738711800000,
+      "xMin": 1738705800000,
+      "xMax": 1738712700000,
       "yMin": 2840.645,
-      "yMax": 2841.73,
-      "backgroundColor": "rgba(139, 52, 220, 0.17)",
+      "yMax": 2842.395,
+      "backgroundColor": "rgba(3, 12, 96, 0.16)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -560,7 +560,7 @@ const CandlestickChart = () => {
       "xMax": 1738759800000,
       "yMin": 2867.11,
       "yMax": 2870.48,
-      "backgroundColor": "rgba(3, 14, 206, 0.19)",
+      "backgroundColor": "rgba(142, 110, 130, 0.19)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -570,7 +570,7 @@ const CandlestickChart = () => {
       "xMax": 1738765800000,
       "yMin": 2858.73,
       "yMax": 2868.285,
-      "backgroundColor": "rgba(34, 59, 12, 0.16)",
+      "backgroundColor": "rgba(215, 97, 254, 0.09)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -580,7 +580,7 @@ const CandlestickChart = () => {
       "xMax": 1738938300000,
       "yMin": 2834.26,
       "yMax": 2874.325,
-      "backgroundColor": "rgba(152, 107, 52, 0.05)",
+      "backgroundColor": "rgba(247, 171, 185, 0.08)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -590,7 +590,27 @@ const CandlestickChart = () => {
       "xMax": 1738965300000,
       "yMin": 2853.435,
       "yMax": 2872.36,
-      "backgroundColor": "rgba(167, 143, 241, 0.12)",
+      "backgroundColor": "rgba(62, 80, 9, 0.16)",
+      "borderColor": "green",
+      "borderWidth": 0.5
+    },
+    {
+      "type": "box",
+      "xMin": 1738701900000,
+      "xMax": 1738702500000,
+      "yMin": 2842.69,
+      "yMax": 2844.01,
+      "backgroundColor": "rgba(154, 235, 243, 0.01)",
+      "borderColor": "green",
+      "borderWidth": 0.5
+    },
+    {
+      "type": "box",
+      "xMin": 1738710600000,
+      "xMax": 1738711800000,
+      "yMin": 2840.645,
+      "yMax": 2841.73,
+      "backgroundColor": "rgba(70, 224, 164, 0.16)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -600,7 +620,7 @@ const CandlestickChart = () => {
       "xMax": 1738758600000,
       "yMin": 2867.875,
       "yMax": 2870.25,
-      "backgroundColor": "rgba(162, 224, 107, 0.07)",
+      "backgroundColor": "rgba(225, 176, 38, 0.03)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -610,7 +630,7 @@ const CandlestickChart = () => {
       "xMax": 1738765800000,
       "yMin": 2858.73,
       "yMax": 2866.37,
-      "backgroundColor": "rgba(157, 240, 219, 0.04)",
+      "backgroundColor": "rgba(250, 230, 44, 0.19)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -620,7 +640,7 @@ const CandlestickChart = () => {
       "xMax": 1738938300000,
       "yMin": 2834.26,
       "yMax": 2873.84,
-      "backgroundColor": "rgba(47, 228, 175, 0.06)",
+      "backgroundColor": "rgba(205, 163, 126, 0.10)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -630,7 +650,7 @@ const CandlestickChart = () => {
       "xMax": 1738952100000,
       "yMin": 2853.435,
       "yMax": 2864.365,
-      "backgroundColor": "rgba(87, 45, 82, 0.05)",
+      "backgroundColor": "rgba(155, 225, 137, 0.17)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -640,7 +660,7 @@ const CandlestickChart = () => {
       "xMax": 1738965300000,
       "yMin": 2859.21,
       "yMax": 2864.86,
-      "backgroundColor": "rgba(247, 134, 69, 0.09)",
+      "backgroundColor": "rgba(248, 195, 136, 0.12)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -650,7 +670,7 @@ const CandlestickChart = () => {
       "xMax": 1738938300000,
       "yMin": 2834.26,
       "yMax": 2873.615,
-      "backgroundColor": "rgba(156, 189, 85, 0.16)",
+      "backgroundColor": "rgba(147, 69, 21, 0.01)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -660,7 +680,7 @@ const CandlestickChart = () => {
       "xMax": 1738951500000,
       "yMin": 2853.435,
       "yMax": 2862.72,
-      "backgroundColor": "rgba(177, 59, 59, 0.02)",
+      "backgroundColor": "rgba(91, 144, 215, 0.19)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -670,7 +690,7 @@ const CandlestickChart = () => {
       "xMax": 1738958700000,
       "yMin": 2859.21,
       "yMax": 2863.375,
-      "backgroundColor": "rgba(58, 147, 246, 0.07)",
+      "backgroundColor": "rgba(175, 107, 187, 0.19)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -680,7 +700,7 @@ const CandlestickChart = () => {
       "xMax": 1738965300000,
       "yMin": 2860.58,
       "yMax": 2863.425,
-      "backgroundColor": "rgba(53, 31, 57, 0.16)",
+      "backgroundColor": "rgba(49, 249, 66, 0.10)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -690,7 +710,7 @@ const CandlestickChart = () => {
       "xMax": 1738807200000,
       "yMin": 2860.02,
       "yMax": 2872.18,
-      "backgroundColor": "rgba(211, 144, 8, 0.01)",
+      "backgroundColor": "rgba(78, 62, 0, 0.07)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -700,7 +720,7 @@ const CandlestickChart = () => {
       "xMax": 1738810200000,
       "yMin": 2869.88,
       "yMax": 2872.52,
-      "backgroundColor": "rgba(55, 168, 73, 0.00)",
+      "backgroundColor": "rgba(243, 143, 64, 0.15)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -710,7 +730,7 @@ const CandlestickChart = () => {
       "xMax": 1738938300000,
       "yMin": 2834.26,
       "yMax": 2872.37,
-      "backgroundColor": "rgba(159, 147, 74, 0.02)",
+      "backgroundColor": "rgba(36, 221, 0, 0.04)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -720,7 +740,7 @@ const CandlestickChart = () => {
       "xMax": 1738957500000,
       "yMin": 2859.21,
       "yMax": 2862.185,
-      "backgroundColor": "rgba(22, 125, 128, 0.17)",
+      "backgroundColor": "rgba(26, 75, 123, 0.13)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -730,7 +750,7 @@ const CandlestickChart = () => {
       "xMax": 1738806900000,
       "yMin": 2860.02,
       "yMax": 2871.07,
-      "backgroundColor": "rgba(222, 107, 171, 0.06)",
+      "backgroundColor": "rgba(87, 88, 108, 0.20)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -740,7 +760,7 @@ const CandlestickChart = () => {
       "xMax": 1738823400000,
       "yMin": 2865.505,
       "yMax": 2870.425,
-      "backgroundColor": "rgba(43, 157, 194, 0.18)",
+      "backgroundColor": "rgba(232, 11, 209, 0.19)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -750,7 +770,7 @@ const CandlestickChart = () => {
       "xMax": 1738826700000,
       "yMin": 2859.25,
       "yMax": 2861.815,
-      "backgroundColor": "rgba(64, 92, 118, 0.13)",
+      "backgroundColor": "rgba(90, 24, 21, 0.07)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -760,7 +780,7 @@ const CandlestickChart = () => {
       "xMax": 1738830900000,
       "yMin": 2849.07,
       "yMax": 2857.005,
-      "backgroundColor": "rgba(0, 102, 211, 0.17)",
+      "backgroundColor": "rgba(25, 253, 69, 0.16)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -770,7 +790,7 @@ const CandlestickChart = () => {
       "xMax": 1738837200000,
       "yMin": 2855.775,
       "yMax": 2860.055,
-      "backgroundColor": "rgba(254, 32, 9, 0.07)",
+      "backgroundColor": "rgba(53, 246, 67, 0.00)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -780,7 +800,7 @@ const CandlestickChart = () => {
       "xMax": 1738840500000,
       "yMin": 2858.05,
       "yMax": 2861.84,
-      "backgroundColor": "rgba(44, 21, 100, 0.11)",
+      "backgroundColor": "rgba(76, 206, 71, 0.00)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -790,7 +810,7 @@ const CandlestickChart = () => {
       "xMax": 1738841700000,
       "yMin": 2858.39,
       "yMax": 2862.36,
-      "backgroundColor": "rgba(173, 241, 117, 0.05)",
+      "backgroundColor": "rgba(204, 237, 210, 0.04)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -800,7 +820,7 @@ const CandlestickChart = () => {
       "xMax": 1738843200000,
       "yMin": 2864.6,
       "yMax": 2867.425,
-      "backgroundColor": "rgba(168, 179, 126, 0.19)",
+      "backgroundColor": "rgba(125, 132, 21, 0.18)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -810,7 +830,7 @@ const CandlestickChart = () => {
       "xMax": 1738894500000,
       "yMin": 2834.26,
       "yMax": 2868.75,
-      "backgroundColor": "rgba(157, 77, 134, 0.13)",
+      "backgroundColor": "rgba(22, 44, 247, 0.15)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -820,7 +840,7 @@ const CandlestickChart = () => {
       "xMax": 1738897200000,
       "yMin": 2867.335,
       "yMax": 2869.27,
-      "backgroundColor": "rgba(189, 134, 30, 0.06)",
+      "backgroundColor": "rgba(75, 45, 12, 0.01)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -830,7 +850,7 @@ const CandlestickChart = () => {
       "xMax": 1738901700000,
       "yMin": 2866.15,
       "yMax": 2868.905,
-      "backgroundColor": "rgba(66, 27, 205, 0.09)",
+      "backgroundColor": "rgba(212, 54, 5, 0.16)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -840,7 +860,7 @@ const CandlestickChart = () => {
       "xMax": 1738903500000,
       "yMin": 2868.15,
       "yMax": 2869.195,
-      "backgroundColor": "rgba(169, 166, 48, 0.19)",
+      "backgroundColor": "rgba(28, 237, 193, 0.17)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -850,7 +870,7 @@ const CandlestickChart = () => {
       "xMax": 1738919100000,
       "yMin": 2859.11,
       "yMax": 2867.14,
-      "backgroundColor": "rgba(184, 182, 145, 0.15)",
+      "backgroundColor": "rgba(187, 0, 16, 0.05)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -860,7 +880,7 @@ const CandlestickChart = () => {
       "xMax": 1738938000000,
       "yMin": 2852.55,
       "yMax": 2870.8,
-      "backgroundColor": "rgba(52, 55, 90, 0.07)",
+      "backgroundColor": "rgba(93, 132, 193, 0.18)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -870,7 +890,7 @@ const CandlestickChart = () => {
       "xMax": 1738784100000,
       "yMin": 2866.475,
       "yMax": 2868.815,
-      "backgroundColor": "rgba(176, 124, 254, 0.09)",
+      "backgroundColor": "rgba(171, 143, 216, 0.06)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -880,7 +900,7 @@ const CandlestickChart = () => {
       "xMax": 1738787100000,
       "yMin": 2862.32,
       "yMax": 2864.875,
-      "backgroundColor": "rgba(217, 231, 255, 0.16)",
+      "backgroundColor": "rgba(17, 190, 207, 0.02)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -890,7 +910,7 @@ const CandlestickChart = () => {
       "xMax": 1738792200000,
       "yMin": 2860.02,
       "yMax": 2866.2,
-      "backgroundColor": "rgba(165, 146, 164, 0.19)",
+      "backgroundColor": "rgba(185, 121, 183, 0.08)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -900,7 +920,7 @@ const CandlestickChart = () => {
       "xMax": 1738797600000,
       "yMin": 2866.175,
       "yMax": 2868.265,
-      "backgroundColor": "rgba(112, 82, 253, 0.07)",
+      "backgroundColor": "rgba(120, 107, 49, 0.18)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -910,7 +930,7 @@ const CandlestickChart = () => {
       "xMax": 1738799100000,
       "yMin": 2867.6,
       "yMax": 2869.025,
-      "backgroundColor": "rgba(200, 219, 137, 0.13)",
+      "backgroundColor": "rgba(228, 168, 176, 0.08)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -920,7 +940,7 @@ const CandlestickChart = () => {
       "xMax": 1738806900000,
       "yMin": 2863.795,
       "yMax": 2870.965,
-      "backgroundColor": "rgba(254, 198, 16, 0.07)",
+      "backgroundColor": "rgba(207, 145, 113, 0.16)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -930,7 +950,7 @@ const CandlestickChart = () => {
       "xMax": 1738818900000,
       "yMin": 2866.995,
       "yMax": 2869.36,
-      "backgroundColor": "rgba(211, 106, 60, 0.10)",
+      "backgroundColor": "rgba(234, 210, 247, 0.15)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -940,7 +960,7 @@ const CandlestickChart = () => {
       "xMax": 1738822800000,
       "yMin": 2865.505,
       "yMax": 2869.945,
-      "backgroundColor": "rgba(252, 152, 13, 0.01)",
+      "backgroundColor": "rgba(0, 42, 46, 0.13)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -950,7 +970,7 @@ const CandlestickChart = () => {
       "xMax": 1738830900000,
       "yMin": 2849.07,
       "yMax": 2856.695,
-      "backgroundColor": "rgba(125, 189, 65, 0.13)",
+      "backgroundColor": "rgba(120, 54, 242, 0.12)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -960,7 +980,7 @@ const CandlestickChart = () => {
       "xMax": 1738837200000,
       "yMin": 2855.775,
       "yMax": 2860.01,
-      "backgroundColor": "rgba(11, 90, 177, 0.01)",
+      "backgroundColor": "rgba(235, 209, 184, 0.18)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -970,7 +990,7 @@ const CandlestickChart = () => {
       "xMax": 1738840500000,
       "yMin": 2858.05,
       "yMax": 2861.71,
-      "backgroundColor": "rgba(71, 210, 115, 0.13)",
+      "backgroundColor": "rgba(187, 112, 74, 0.20)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -980,7 +1000,7 @@ const CandlestickChart = () => {
       "xMax": 1738892400000,
       "yMin": 2834.26,
       "yMax": 2864.98,
-      "backgroundColor": "rgba(239, 103, 234, 0.04)",
+      "backgroundColor": "rgba(44, 28, 77, 0.14)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -990,7 +1010,7 @@ const CandlestickChart = () => {
       "xMax": 1738893900000,
       "yMin": 2865.615,
       "yMax": 2868.235,
-      "backgroundColor": "rgba(219, 248, 117, 0.10)",
+      "backgroundColor": "rgba(248, 188, 143, 0.00)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1000,7 +1020,7 @@ const CandlestickChart = () => {
       "xMax": 1738897200000,
       "yMin": 2867.335,
       "yMax": 2869.045,
-      "backgroundColor": "rgba(152, 248, 68, 0.10)",
+      "backgroundColor": "rgba(131, 208, 207, 0.01)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1010,7 +1030,7 @@ const CandlestickChart = () => {
       "xMax": 1738903500000,
       "yMin": 2868.15,
       "yMax": 2869.04,
-      "backgroundColor": "rgba(18, 82, 61, 0.10)",
+      "backgroundColor": "rgba(29, 26, 211, 0.07)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1020,7 +1040,7 @@ const CandlestickChart = () => {
       "xMax": 1738909200000,
       "yMin": 2861.91,
       "yMax": 2863.445,
-      "backgroundColor": "rgba(82, 223, 225, 0.04)",
+      "backgroundColor": "rgba(157, 158, 148, 0.01)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1030,7 +1050,7 @@ const CandlestickChart = () => {
       "xMax": 1738916100000,
       "yMin": 2859.11,
       "yMax": 2866.21,
-      "backgroundColor": "rgba(22, 12, 147, 0.05)",
+      "backgroundColor": "rgba(60, 182, 47, 0.16)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1040,7 +1060,7 @@ const CandlestickChart = () => {
       "xMax": 1738918200000,
       "yMin": 2863.41,
       "yMax": 2865.46,
-      "backgroundColor": "rgba(139, 41, 122, 0.18)",
+      "backgroundColor": "rgba(107, 78, 146, 0.16)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1050,7 +1070,7 @@ const CandlestickChart = () => {
       "xMax": 1738790700000,
       "yMin": 2861.265,
       "yMax": 2863.025,
-      "backgroundColor": "rgba(117, 226, 187, 0.11)",
+      "backgroundColor": "rgba(234, 181, 182, 0.20)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1060,7 +1080,7 @@ const CandlestickChart = () => {
       "xMax": 1738806900000,
       "yMin": 2863.795,
       "yMax": 2870.88,
-      "backgroundColor": "rgba(52, 14, 47, 0.19)",
+      "backgroundColor": "rgba(208, 75, 20, 0.15)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1070,7 +1090,7 @@ const CandlestickChart = () => {
       "xMax": 1738818900000,
       "yMin": 2866.995,
       "yMax": 2869.235,
-      "backgroundColor": "rgba(9, 209, 172, 0.03)",
+      "backgroundColor": "rgba(28, 30, 219, 0.09)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1080,7 +1100,7 @@ const CandlestickChart = () => {
       "xMax": 1738822500000,
       "yMin": 2865.505,
       "yMax": 2869.79,
-      "backgroundColor": "rgba(37, 82, 176, 0.03)",
+      "backgroundColor": "rgba(217, 253, 145, 0.10)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1090,7 +1110,7 @@ const CandlestickChart = () => {
       "xMax": 1738837200000,
       "yMin": 2855.775,
       "yMax": 2859.945,
-      "backgroundColor": "rgba(230, 13, 94, 0.03)",
+      "backgroundColor": "rgba(19, 38, 151, 0.01)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1100,7 +1120,7 @@ const CandlestickChart = () => {
       "xMax": 1738891200000,
       "yMin": 2834.26,
       "yMax": 2863.825,
-      "backgroundColor": "rgba(143, 61, 2, 0.05)",
+      "backgroundColor": "rgba(162, 45, 152, 0.08)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1110,7 +1130,7 @@ const CandlestickChart = () => {
       "xMax": 1738912200000,
       "yMin": 2859.11,
       "yMax": 2863.36,
-      "backgroundColor": "rgba(35, 163, 6, 0.12)",
+      "backgroundColor": "rgba(102, 184, 22, 0.03)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1120,7 +1140,7 @@ const CandlestickChart = () => {
       "xMax": 1738914600000,
       "yMin": 2863.21,
       "yMax": 2865.595,
-      "backgroundColor": "rgba(69, 81, 84, 0.02)",
+      "backgroundColor": "rgba(141, 148, 33, 0.17)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1130,7 +1150,7 @@ const CandlestickChart = () => {
       "xMax": 1738805400000,
       "yMin": 2865.835,
       "yMax": 2867.91,
-      "backgroundColor": "rgba(87, 158, 49, 0.08)",
+      "backgroundColor": "rgba(254, 22, 99, 0.19)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1140,7 +1160,7 @@ const CandlestickChart = () => {
       "xMax": 1738822500000,
       "yMin": 2868.195,
       "yMax": 2869.725,
-      "backgroundColor": "rgba(225, 21, 186, 0.13)",
+      "backgroundColor": "rgba(87, 117, 116, 0.19)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1150,7 +1170,7 @@ const CandlestickChart = () => {
       "xMax": 1738887600000,
       "yMin": 2834.26,
       "yMax": 2859.825,
-      "backgroundColor": "rgba(112, 228, 139, 0.08)",
+      "backgroundColor": "rgba(13, 184, 81, 0.13)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1160,7 +1180,7 @@ const CandlestickChart = () => {
       "xMax": 1738890900000,
       "yMin": 2857.98,
       "yMax": 2860.465,
-      "backgroundColor": "rgba(235, 208, 17, 0.15)",
+      "backgroundColor": "rgba(187, 98, 80, 0.01)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1170,7 +1190,7 @@ const CandlestickChart = () => {
       "xMax": 1738914600000,
       "yMin": 2863.43,
       "yMax": 2865.335,
-      "backgroundColor": "rgba(116, 129, 185, 0.02)",
+      "backgroundColor": "rgba(169, 134, 59, 0.14)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1180,7 +1200,7 @@ const CandlestickChart = () => {
       "xMax": 1738872300000,
       "yMin": 2834.26,
       "yMax": 2856.765,
-      "backgroundColor": "rgba(152, 37, 51, 0.13)",
+      "backgroundColor": "rgba(141, 234, 236, 0.02)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1190,7 +1210,7 @@ const CandlestickChart = () => {
       "xMax": 1738875000000,
       "yMin": 2853.895,
       "yMax": 2856.085,
-      "backgroundColor": "rgba(137, 203, 15, 0.13)",
+      "backgroundColor": "rgba(161, 44, 157, 0.02)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1200,7 +1220,7 @@ const CandlestickChart = () => {
       "xMax": 1738878000000,
       "yMin": 2855.01,
       "yMax": 2856.93,
-      "backgroundColor": "rgba(122, 240, 242, 0.12)",
+      "backgroundColor": "rgba(134, 194, 119, 0.06)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1210,7 +1230,7 @@ const CandlestickChart = () => {
       "xMax": 1738884000000,
       "yMin": 2855.86,
       "yMax": 2857.25,
-      "backgroundColor": "rgba(167, 121, 15, 0.15)",
+      "backgroundColor": "rgba(148, 82, 164, 0.20)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1220,7 +1240,7 @@ const CandlestickChart = () => {
       "xMax": 1738886400000,
       "yMin": 2856.875,
       "yMax": 2858.84,
-      "backgroundColor": "rgba(212, 248, 144, 0.05)",
+      "backgroundColor": "rgba(170, 34, 251, 0.04)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1230,7 +1250,7 @@ const CandlestickChart = () => {
       "xMax": 1738890900000,
       "yMin": 2858.485,
       "yMax": 2860.11,
-      "backgroundColor": "rgba(53, 18, 216, 0.07)",
+      "backgroundColor": "rgba(88, 3, 223, 0.10)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1240,7 +1260,7 @@ const CandlestickChart = () => {
       "xMax": 1738856100000,
       "yMin": 2844.025,
       "yMax": 2847.715,
-      "backgroundColor": "rgba(224, 102, 211, 0.20)",
+      "backgroundColor": "rgba(52, 115, 69, 0.20)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1250,7 +1270,7 @@ const CandlestickChart = () => {
       "xMax": 1738858500000,
       "yMin": 2849.23,
       "yMax": 2853.24,
-      "backgroundColor": "rgba(216, 42, 74, 0.07)",
+      "backgroundColor": "rgba(41, 203, 69, 0.09)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1260,7 +1280,7 @@ const CandlestickChart = () => {
       "xMax": 1738871400000,
       "yMin": 2848.18,
       "yMax": 2853.905,
-      "backgroundColor": "rgba(12, 99, 126, 0.05)",
+      "backgroundColor": "rgba(97, 1, 250, 0.15)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1270,7 +1290,7 @@ const CandlestickChart = () => {
       "xMax": 1738864200000,
       "yMin": 2848.87,
       "yMax": 2851.92,
-      "backgroundColor": "rgba(43, 89, 103, 0.10)",
+      "backgroundColor": "rgba(183, 50, 199, 0.05)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1280,7 +1300,7 @@ const CandlestickChart = () => {
       "xMax": 1738865100000,
       "yMin": 2851.28,
       "yMax": 2852.69,
-      "backgroundColor": "rgba(148, 206, 100, 0.17)",
+      "backgroundColor": "rgba(88, 20, 176, 0.17)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1290,7 +1310,7 @@ const CandlestickChart = () => {
       "xMax": 1738871400000,
       "yMin": 2850.48,
       "yMax": 2853.685,
-      "backgroundColor": "rgba(132, 5, 1, 0.01)",
+      "backgroundColor": "rgba(125, 194, 216, 0.18)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1300,7 +1320,7 @@ const CandlestickChart = () => {
       "xMax": 1738864200000,
       "yMin": 2848.98,
       "yMax": 2851.4,
-      "backgroundColor": "rgba(56, 164, 119, 0.16)",
+      "backgroundColor": "rgba(98, 103, 157, 0.16)",
       "borderColor": "green",
       "borderWidth": 0.5
     },
@@ -1310,7 +1330,7 @@ const CandlestickChart = () => {
       "xMax": 1738871100000,
       "yMin": 2850.48,
       "yMax": 2852.675,
-      "backgroundColor": "rgba(224, 164, 243, 0.12)",
+      "backgroundColor": "rgba(183, 171, 211, 0.01)",
       "borderColor": "green",
       "borderWidth": 0.5
     }
