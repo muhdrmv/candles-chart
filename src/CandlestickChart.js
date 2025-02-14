@@ -56,13 +56,30 @@ const CandlestickChart = () => {
   const rectangles = [
     {
       "type": "box",
+      "xMin": 1738655400000,
+      "xMax": 1738656600000,
+      "yMin": 2810.325,
+      "yMax": 2813.89,
+      "backgroundColor": "rgba(208, 249, 10, 0.39)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738656900000,
+      "xMax": 1738657200000,
+      "yMin": 2814.25,
+      "yMax": 2818.915,
+      "backgroundColor": "rgba(214, 252, 39, 0.36)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
       "xMin": 1738657200000,
       "xMax": 1738662000000,
       "yMin": 2811.855,
       "yMax": 2819.305,
-      "backgroundColor": "rgba(123, 154, 198, 0.06)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "backgroundColor": "rgba(245, 221, 12, 0.30)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
@@ -70,9 +87,17 @@ const CandlestickChart = () => {
       "xMax": 1738673400000,
       "yMin": 2812.89,
       "yMax": 2821.88,
-      "backgroundColor": "rgba(166, 91, 170, 0.13)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "backgroundColor": "rgba(216, 207, 18, 0.33)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738673700000,
+      "xMax": 1738674000000,
+      "yMin": 2821.46,
+      "yMax": 2823.015,
+      "backgroundColor": "rgba(233, 238, 42, 0.35)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
@@ -80,9 +105,26 @@ const CandlestickChart = () => {
       "xMax": 1738679100000,
       "yMin": 2829.03,
       "yMax": 2837.245,
-      "backgroundColor": "rgba(36, 210, 47, 0.04)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "backgroundColor": "rgba(231, 223, 4, 0.33)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738679400000,
+      "xMax": 1738680000000,
+      "yMin": 2836.05,
+      "yMax": 2840.745,
+      "backgroundColor": "rgba(245, 222, 0, 0.30)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738680300000,
+      "xMax": 1738680600000,
+      "yMin": 2839.09,
+      "yMax": 2841.25,
+      "backgroundColor": "rgba(243, 251, 18, 0.40)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
@@ -90,9 +132,8 @@ const CandlestickChart = () => {
       "xMax": 1738681200000,
       "yMin": 2838.08,
       "yMax": 2841.345,
-      "backgroundColor": "rgba(130, 68, 107, 0.12)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "backgroundColor": "rgba(213, 246, 47, 0.33)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
@@ -100,9 +141,8 @@ const CandlestickChart = () => {
       "xMax": 1738683000000,
       "yMin": 2840.205,
       "yMax": 2844.435,
-      "backgroundColor": "rgba(80, 40, 195, 0.02)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "backgroundColor": "rgba(204, 201, 24, 0.36)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
@@ -110,9 +150,17 @@ const CandlestickChart = () => {
       "xMax": 1738715400000,
       "yMin": 2832.685,
       "yMax": 2845.46,
-      "backgroundColor": "rgba(95, 122, 81, 0.05)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "backgroundColor": "rgba(233, 253, 5, 0.38)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738715700000,
+      "xMax": 1738717200000,
+      "yMin": 2843.01,
+      "yMax": 2848.3,
+      "backgroundColor": "rgba(202, 213, 37, 0.31)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
@@ -120,9 +168,8 @@ const CandlestickChart = () => {
       "xMax": 1738721100000,
       "yMin": 2839.8,
       "yMax": 2849.015,
-      "backgroundColor": "rgba(28, 228, 110, 0.08)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "backgroundColor": "rgba(229, 248, 38, 0.31)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
@@ -130,9 +177,8 @@ const CandlestickChart = () => {
       "xMax": 1738725600000,
       "yMin": 2847.92,
       "yMax": 2853.885,
-      "backgroundColor": "rgba(40, 214, 13, 0.13)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "backgroundColor": "rgba(229, 202, 31, 0.31)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
@@ -140,9 +186,17 @@ const CandlestickChart = () => {
       "xMax": 1738728600000,
       "yMin": 2851.895,
       "yMax": 2854.48,
-      "backgroundColor": "rgba(128, 177, 78, 0.04)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "backgroundColor": "rgba(210, 216, 1, 0.36)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738728600000,
+      "xMax": 1738730400000,
+      "yMin": 2853.52,
+      "yMax": 2857.92,
+      "backgroundColor": "rgba(213, 245, 26, 0.31)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
@@ -150,9 +204,17 @@ const CandlestickChart = () => {
       "xMax": 1738734000000,
       "yMin": 2853.715,
       "yMax": 2858.19,
-      "backgroundColor": "rgba(223, 37, 195, 0.14)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "backgroundColor": "rgba(253, 219, 11, 0.32)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738734300000,
+      "xMax": 1738734600000,
+      "yMin": 2858.045,
+      "yMax": 2860.355,
+      "backgroundColor": "rgba(222, 238, 21, 0.33)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
@@ -160,9 +222,8 @@ const CandlestickChart = () => {
       "xMax": 1738736400000,
       "yMin": 2857.27,
       "yMax": 2860.665,
-      "backgroundColor": "rgba(158, 102, 67, 0.04)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "backgroundColor": "rgba(222, 238, 38, 0.31)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
@@ -170,9 +231,8 @@ const CandlestickChart = () => {
       "xMax": 1738742100000,
       "yMin": 2855.02,
       "yMax": 2861.905,
-      "backgroundColor": "rgba(229, 165, 151, 0.17)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "backgroundColor": "rgba(250, 215, 42, 0.34)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
@@ -180,9 +240,17 @@ const CandlestickChart = () => {
       "xMax": 1738743300000,
       "yMin": 2863.755,
       "yMax": 2865.485,
-      "backgroundColor": "rgba(209, 21, 182, 0.02)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "backgroundColor": "rgba(221, 240, 45, 0.39)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738743600000,
+      "xMax": 1738743900000,
+      "yMin": 2864.905,
+      "yMax": 2866.435,
+      "backgroundColor": "rgba(231, 228, 27, 0.32)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
@@ -190,9 +258,8 @@ const CandlestickChart = () => {
       "xMax": 1738744800000,
       "yMin": 2864.775,
       "yMax": 2866.675,
-      "backgroundColor": "rgba(234, 37, 41, 0.10)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "backgroundColor": "rgba(251, 211, 49, 0.34)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
@@ -200,19 +267,26 @@ const CandlestickChart = () => {
       "xMax": 1738747200000,
       "yMin": 2865.505,
       "yMax": 2869.705,
-      "backgroundColor": "rgba(189, 11, 248, 0.20)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "backgroundColor": "rgba(240, 225, 35, 0.32)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
-      "xMin": 1738750800000,
-      "xMax": 1738751400000,
-      "yMin": 2871.235,
-      "yMax": 2872.27,
-      "backgroundColor": "rgba(235, 181, 0, 0.12)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "xMin": 1738747200000,
+      "xMax": 1738748400000,
+      "yMin": 2865.56,
+      "yMax": 2870.48,
+      "backgroundColor": "rgba(200, 221, 47, 0.36)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738748400000,
+      "xMax": 1738750800000,
+      "yMin": 2869.3,
+      "yMax": 2872.175,
+      "backgroundColor": "rgba(213, 221, 3, 0.32)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
@@ -220,9 +294,8 @@ const CandlestickChart = () => {
       "xMax": 1738769100000,
       "yMin": 2858.73,
       "yMax": 2877.105,
-      "backgroundColor": "rgba(94, 237, 19, 0.19)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "backgroundColor": "rgba(203, 225, 10, 0.32)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
@@ -230,9 +303,8 @@ const CandlestickChart = () => {
       "xMax": 1738770000000,
       "yMin": 2873.885,
       "yMax": 2877.485,
-      "backgroundColor": "rgba(47, 175, 139, 0.15)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "backgroundColor": "rgba(251, 233, 23, 0.30)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
@@ -240,1102 +312,1482 @@ const CandlestickChart = () => {
       "xMax": 1738941300000,
       "yMin": 2834.26,
       "yMax": 2882.42,
-      "backgroundColor": "rgba(165, 37, 227, 0.12)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "backgroundColor": "rgba(230, 241, 39, 0.38)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
-      "xMin": 1738943100000,
-      "xMax": 1738965300000,
-      "yMin": 2853.435,
-      "yMax": 2886.81,
-      "backgroundColor": "rgba(174, 6, 204, 0.15)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "xMin": 1738942200000,
+      "xMax": 1738942500000,
+      "yMin": 2882.605,
+      "yMax": 2886.12,
+      "backgroundColor": "rgba(240, 224, 32, 0.38)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
-      "xMin": 1738657800000,
-      "xMax": 1738660800000,
-      "yMin": 2811.855,
-      "yMax": 2817.81,
-      "backgroundColor": "rgba(75, 84, 147, 0.01)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "xMin": 1738942800000,
+      "xMax": 1738943100000,
+      "yMin": 2883.64,
+      "yMax": 2886.215,
+      "backgroundColor": "rgba(230, 249, 18, 0.36)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
-      "xMin": 1738667100000,
-      "xMax": 1738668600000,
-      "yMin": 2813.355,
+      "xMin": 1738655400000,
+      "xMax": 1738656000000,
+      "yMin": 2811.93,
+      "yMax": 2813.89,
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738656300000,
+      "xMax": 1738656600000,
+      "yMin": 2810.775,
+      "yMax": 2814.345,
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738656900000,
+      "xMax": 1738658100000,
+      "yMin": 2814.25,
+      "yMax": 2819.305,
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738658400000,
+      "xMax": 1738658700000,
+      "yMin": 2812.235,
+      "yMax": 2815.605,
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738659000000,
+      "xMax": 1738665300000,
+      "yMin": 2812.985,
+      "yMax": 2821.88,
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738665600000,
+      "xMax": 1738666200000,
+      "yMin": 2813.37,
+      "yMax": 2815.4,
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738666500000,
+      "xMax": 1738667400000,
+      "yMin": 2813.97,
       "yMax": 2816.035,
-      "backgroundColor": "rgba(194, 190, 106, 0.02)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
-      "xMin": 1738668900000,
-      "xMax": 1738669800000,
-      "yMin": 2814.36,
+      "xMin": 1738668600000,
+      "xMax": 1738669500000,
+      "yMin": 2814.44,
       "yMax": 2816.84,
-      "backgroundColor": "rgba(195, 104, 142, 0.19)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
-      "xMin": 1738672500000,
-      "xMax": 1738673100000,
-      "yMin": 2819.105,
+      "xMin": 1738670100000,
+      "xMax": 1738670400000,
+      "yMin": 2814.86,
+      "yMax": 2816.275,
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738672200000,
+      "xMax": 1738672800000,
+      "yMin": 2819.39,
       "yMax": 2820.8,
-      "backgroundColor": "rgba(177, 168, 250, 0.11)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
-      "xMin": 1738684500000,
-      "xMax": 1738685400000,
-      "yMin": 2832.685,
-      "yMax": 2838.595,
-      "backgroundColor": "rgba(21, 205, 225, 0.06)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "xMin": 1738675500000,
+      "xMax": 1738677000000,
+      "yMin": 2831.275,
+      "yMax": 2837.245,
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
-      "xMin": 1738686300000,
-      "xMax": 1738689300000,
-      "yMin": 2839.435,
-      "yMax": 2842.475,
-      "backgroundColor": "rgba(45, 107, 211, 0.20)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "xMin": 1738677300000,
+      "xMax": 1738677600000,
+      "yMin": 2830.415,
+      "yMax": 2832.235,
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
-      "xMin": 1738690200000,
-      "xMax": 1738691400000,
-      "yMin": 2841.81,
-      "yMax": 2844.565,
-      "backgroundColor": "rgba(78, 44, 22, 0.05)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "xMin": 1738679100000,
+      "xMax": 1738684800000,
+      "yMin": 2833.315,
+      "yMax": 2845.46,
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
-      "xMin": 1738692900000,
-      "xMax": 1738694400000,
-      "yMin": 2842.735,
-      "yMax": 2844.895,
-      "backgroundColor": "rgba(103, 227, 151, 0.01)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "xMin": 1738685400000,
+      "xMax": 1738854300000,
+      "yMin": 2836.805,
+      "yMax": 2882.42,
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
-      "xMin": 1738696200000,
-      "xMax": 1738697700000,
-      "yMin": 2841.98,
-      "yMax": 2844.125,
-      "backgroundColor": "rgba(158, 135, 114, 0.02)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "xMin": 1738856400000,
+      "xMax": 1738861200000,
+      "yMin": 2848.335,
+      "yMax": 2854.77,
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
-      "xMin": 1738698000000,
-      "xMax": 1738702500000,
-      "yMin": 2841.045,
-      "yMax": 2844.21,
-      "backgroundColor": "rgba(172, 151, 71, 0.06)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738705200000,
-      "xMax": 1738712700000,
-      "yMin": 2840.645,
-      "yMax": 2842.555,
-      "backgroundColor": "rgba(160, 208, 12, 0.18)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738713600000,
-      "xMax": 1738715100000,
-      "yMin": 2840.735,
-      "yMax": 2842.42,
-      "backgroundColor": "rgba(106, 213, 186, 0.13)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738718100000,
-      "xMax": 1738720800000,
-      "yMin": 2839.8,
-      "yMax": 2847.065,
-      "backgroundColor": "rgba(117, 237, 197, 0.10)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738722300000,
-      "xMax": 1738725000000,
-      "yMin": 2847.92,
-      "yMax": 2852.97,
-      "backgroundColor": "rgba(117, 149, 81, 0.04)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738727400000,
-      "xMax": 1738728600000,
-      "yMin": 2851.895,
-      "yMax": 2854.255,
-      "backgroundColor": "rgba(40, 119, 201, 0.16)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738737300000,
-      "xMax": 1738738200000,
-      "yMin": 2859.905,
-      "yMax": 2861.375,
-      "backgroundColor": "rgba(51, 116, 119, 0.07)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738740600000,
-      "xMax": 1738741500000,
-      "yMin": 2857.66,
-      "yMax": 2859.435,
-      "backgroundColor": "rgba(170, 40, 26, 0.19)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738745700000,
-      "xMax": 1738747200000,
-      "yMin": 2865.505,
-      "yMax": 2869.56,
-      "backgroundColor": "rgba(140, 222, 194, 0.07)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738753500000,
-      "xMax": 1738754700000,
-      "yMin": 2864.86,
-      "yMax": 2869.83,
-      "backgroundColor": "rgba(111, 81, 97, 0.16)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738755300000,
-      "xMax": 1738759800000,
-      "yMin": 2867.11,
-      "yMax": 2870.535,
-      "backgroundColor": "rgba(216, 189, 75, 0.09)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738760100000,
-      "xMax": 1738766700000,
-      "yMin": 2858.73,
-      "yMax": 2870.89,
-      "backgroundColor": "rgba(123, 6, 151, 0.08)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738768500000,
-      "xMax": 1738769100000,
-      "yMin": 2873.07,
-      "yMax": 2876.505,
-      "backgroundColor": "rgba(137, 9, 108, 0.05)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738773300000,
-      "xMax": 1738774200000,
-      "yMin": 2869.64,
-      "yMax": 2871.605,
-      "backgroundColor": "rgba(235, 125, 127, 0.19)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738775100000,
-      "xMax": 1738938900000,
-      "yMin": 2834.26,
-      "yMax": 2876.76,
-      "backgroundColor": "rgba(228, 219, 233, 0.11)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738939200000,
-      "xMax": 1738940400000,
-      "yMin": 2873.19,
-      "yMax": 2878.375,
-      "backgroundColor": "rgba(26, 253, 244, 0.03)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738943700000,
-      "xMax": 1738965300000,
-      "yMin": 2853.435,
-      "yMax": 2885.155,
-      "backgroundColor": "rgba(203, 78, 225, 0.15)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738659300000,
-      "xMax": 1738660500000,
-      "yMin": 2814.21,
-      "yMax": 2816.8,
-      "backgroundColor": "rgba(204, 120, 33, 0.00)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738687200000,
-      "xMax": 1738689000000,
-      "yMin": 2839.435,
-      "yMax": 2842.315,
-      "backgroundColor": "rgba(212, 22, 72, 0.15)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738699500000,
-      "xMax": 1738702500000,
-      "yMin": 2841.045,
-      "yMax": 2844.145,
-      "backgroundColor": "rgba(128, 47, 228, 0.03)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738705800000,
-      "xMax": 1738712700000,
-      "yMin": 2840.645,
-      "yMax": 2842.395,
-      "backgroundColor": "rgba(3, 12, 96, 0.16)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738756200000,
-      "xMax": 1738759800000,
-      "yMin": 2867.11,
-      "yMax": 2870.48,
-      "backgroundColor": "rgba(142, 110, 130, 0.19)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738761900000,
-      "xMax": 1738765800000,
-      "yMin": 2858.73,
-      "yMax": 2868.285,
-      "backgroundColor": "rgba(215, 97, 254, 0.09)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738776300000,
-      "xMax": 1738938300000,
-      "yMin": 2834.26,
-      "yMax": 2874.325,
-      "backgroundColor": "rgba(247, 171, 185, 0.08)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738945200000,
-      "xMax": 1738965300000,
-      "yMin": 2853.435,
-      "yMax": 2872.36,
-      "backgroundColor": "rgba(62, 80, 9, 0.16)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738701900000,
-      "xMax": 1738702500000,
-      "yMin": 2842.69,
-      "yMax": 2844.01,
-      "backgroundColor": "rgba(154, 235, 243, 0.01)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738710600000,
-      "xMax": 1738711800000,
-      "yMin": 2840.645,
-      "yMax": 2841.73,
-      "backgroundColor": "rgba(70, 224, 164, 0.16)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738757100000,
-      "xMax": 1738758600000,
-      "yMin": 2867.875,
-      "yMax": 2870.25,
-      "backgroundColor": "rgba(225, 176, 38, 0.03)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738762800000,
-      "xMax": 1738765800000,
-      "yMin": 2858.73,
-      "yMax": 2866.37,
-      "backgroundColor": "rgba(250, 230, 44, 0.19)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738777500000,
-      "xMax": 1738938300000,
-      "yMin": 2834.26,
-      "yMax": 2873.84,
-      "backgroundColor": "rgba(205, 163, 126, 0.10)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738947000000,
-      "xMax": 1738952100000,
-      "yMin": 2853.435,
-      "yMax": 2864.365,
-      "backgroundColor": "rgba(155, 225, 137, 0.17)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738953300000,
-      "xMax": 1738965300000,
-      "yMin": 2859.21,
-      "yMax": 2864.86,
-      "backgroundColor": "rgba(248, 195, 136, 0.12)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738778400000,
-      "xMax": 1738938300000,
-      "yMin": 2834.26,
-      "yMax": 2873.615,
-      "backgroundColor": "rgba(147, 69, 21, 0.01)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738947900000,
-      "xMax": 1738951500000,
-      "yMin": 2853.435,
-      "yMax": 2862.72,
-      "backgroundColor": "rgba(91, 144, 215, 0.19)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738955400000,
-      "xMax": 1738958700000,
-      "yMin": 2859.21,
-      "yMax": 2863.375,
-      "backgroundColor": "rgba(175, 107, 187, 0.19)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738963500000,
-      "xMax": 1738965300000,
-      "yMin": 2860.58,
-      "yMax": 2863.425,
-      "backgroundColor": "rgba(49, 249, 66, 0.10)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738779300000,
-      "xMax": 1738807200000,
-      "yMin": 2860.02,
-      "yMax": 2872.18,
-      "backgroundColor": "rgba(78, 62, 0, 0.07)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738809000000,
-      "xMax": 1738810200000,
-      "yMin": 2869.88,
-      "yMax": 2872.52,
-      "backgroundColor": "rgba(243, 143, 64, 0.15)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738814400000,
-      "xMax": 1738938300000,
-      "yMin": 2834.26,
-      "yMax": 2872.37,
-      "backgroundColor": "rgba(36, 221, 0, 0.04)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738956300000,
-      "xMax": 1738957500000,
-      "yMin": 2859.21,
-      "yMax": 2862.185,
-      "backgroundColor": "rgba(26, 75, 123, 0.13)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738780200000,
-      "xMax": 1738806900000,
-      "yMin": 2860.02,
-      "yMax": 2871.07,
-      "backgroundColor": "rgba(87, 88, 108, 0.20)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738816200000,
-      "xMax": 1738823400000,
-      "yMin": 2865.505,
-      "yMax": 2870.425,
-      "backgroundColor": "rgba(232, 11, 209, 0.19)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738825800000,
-      "xMax": 1738826700000,
-      "yMin": 2859.25,
-      "yMax": 2861.815,
-      "backgroundColor": "rgba(90, 24, 21, 0.07)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738828800000,
-      "xMax": 1738830900000,
+      "xMin": 1738862100000,
+      "xMax": 1738863300000,
       "yMin": 2849.07,
-      "yMax": 2857.005,
-      "backgroundColor": "rgba(25, 253, 69, 0.16)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "yMax": 2851.4,
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
-      "xMin": 1738833300000,
-      "xMax": 1738837200000,
-      "yMin": 2855.775,
-      "yMax": 2860.055,
-      "backgroundColor": "rgba(53, 246, 67, 0.00)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738838100000,
-      "xMax": 1738840500000,
-      "yMin": 2858.05,
-      "yMax": 2861.84,
-      "backgroundColor": "rgba(76, 206, 71, 0.00)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738840800000,
-      "xMax": 1738841700000,
-      "yMin": 2858.39,
-      "yMax": 2862.36,
-      "backgroundColor": "rgba(204, 237, 210, 0.04)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738842600000,
-      "xMax": 1738843200000,
-      "yMin": 2864.6,
-      "yMax": 2867.425,
-      "backgroundColor": "rgba(125, 132, 21, 0.18)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738845000000,
-      "xMax": 1738894500000,
-      "yMin": 2834.26,
-      "yMax": 2868.75,
-      "backgroundColor": "rgba(22, 44, 247, 0.15)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738895100000,
-      "xMax": 1738897200000,
-      "yMin": 2867.335,
-      "yMax": 2869.27,
-      "backgroundColor": "rgba(75, 45, 12, 0.01)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738899600000,
-      "xMax": 1738901700000,
-      "yMin": 2866.15,
-      "yMax": 2868.905,
-      "backgroundColor": "rgba(212, 54, 5, 0.16)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738902000000,
-      "xMax": 1738903500000,
-      "yMin": 2868.15,
-      "yMax": 2869.195,
-      "backgroundColor": "rgba(28, 237, 193, 0.17)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738905300000,
-      "xMax": 1738919100000,
-      "yMin": 2859.11,
-      "yMax": 2867.14,
-      "backgroundColor": "rgba(187, 0, 16, 0.05)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738919400000,
-      "xMax": 1738938000000,
-      "yMin": 2852.55,
-      "yMax": 2870.8,
-      "backgroundColor": "rgba(93, 132, 193, 0.18)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738783200000,
-      "xMax": 1738784100000,
-      "yMin": 2866.475,
-      "yMax": 2868.815,
-      "backgroundColor": "rgba(171, 143, 216, 0.06)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738786200000,
-      "xMax": 1738787100000,
-      "yMin": 2862.32,
-      "yMax": 2864.875,
-      "backgroundColor": "rgba(17, 190, 207, 0.02)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738787400000,
-      "xMax": 1738792200000,
-      "yMin": 2860.02,
-      "yMax": 2866.2,
-      "backgroundColor": "rgba(185, 121, 183, 0.08)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738796400000,
-      "xMax": 1738797600000,
-      "yMin": 2866.175,
-      "yMax": 2868.265,
-      "backgroundColor": "rgba(120, 107, 49, 0.18)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738798200000,
-      "xMax": 1738799100000,
-      "yMin": 2867.6,
-      "yMax": 2869.025,
-      "backgroundColor": "rgba(228, 168, 176, 0.08)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738799400000,
-      "xMax": 1738806900000,
-      "yMin": 2863.795,
-      "yMax": 2870.965,
-      "backgroundColor": "rgba(207, 145, 113, 0.16)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738817700000,
-      "xMax": 1738818900000,
-      "yMin": 2866.995,
-      "yMax": 2869.36,
-      "backgroundColor": "rgba(234, 210, 247, 0.15)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738819200000,
-      "xMax": 1738822800000,
-      "yMin": 2865.505,
-      "yMax": 2869.945,
-      "backgroundColor": "rgba(0, 42, 46, 0.13)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738829700000,
-      "xMax": 1738830900000,
-      "yMin": 2849.07,
-      "yMax": 2856.695,
-      "backgroundColor": "rgba(120, 54, 242, 0.12)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738834500000,
-      "xMax": 1738837200000,
-      "yMin": 2855.775,
-      "yMax": 2860.01,
-      "backgroundColor": "rgba(235, 209, 184, 0.18)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738839000000,
-      "xMax": 1738840500000,
-      "yMin": 2858.05,
-      "yMax": 2861.71,
-      "backgroundColor": "rgba(187, 112, 74, 0.20)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738848000000,
-      "xMax": 1738892400000,
-      "yMin": 2834.26,
-      "yMax": 2864.98,
-      "backgroundColor": "rgba(44, 28, 77, 0.14)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738893300000,
-      "xMax": 1738893900000,
-      "yMin": 2865.615,
-      "yMax": 2868.235,
-      "backgroundColor": "rgba(248, 188, 143, 0.00)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738895700000,
-      "xMax": 1738897200000,
-      "yMin": 2867.335,
-      "yMax": 2869.045,
-      "backgroundColor": "rgba(131, 208, 207, 0.01)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738902600000,
-      "xMax": 1738903500000,
-      "yMin": 2868.15,
-      "yMax": 2869.04,
-      "backgroundColor": "rgba(29, 26, 211, 0.07)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738908600000,
-      "xMax": 1738909200000,
-      "yMin": 2861.91,
-      "yMax": 2863.445,
-      "backgroundColor": "rgba(157, 158, 148, 0.01)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738909500000,
-      "xMax": 1738916100000,
-      "yMin": 2859.11,
-      "yMax": 2866.21,
-      "backgroundColor": "rgba(60, 182, 47, 0.16)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738917000000,
-      "xMax": 1738918200000,
-      "yMin": 2863.41,
-      "yMax": 2865.46,
-      "backgroundColor": "rgba(107, 78, 146, 0.16)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738789200000,
-      "xMax": 1738790700000,
-      "yMin": 2861.265,
-      "yMax": 2863.025,
-      "backgroundColor": "rgba(234, 181, 182, 0.20)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738803600000,
-      "xMax": 1738806900000,
-      "yMin": 2863.795,
-      "yMax": 2870.88,
-      "backgroundColor": "rgba(208, 75, 20, 0.15)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738818300000,
-      "xMax": 1738818900000,
-      "yMin": 2866.995,
-      "yMax": 2869.235,
-      "backgroundColor": "rgba(28, 30, 219, 0.09)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738819800000,
-      "xMax": 1738822500000,
-      "yMin": 2865.505,
-      "yMax": 2869.79,
-      "backgroundColor": "rgba(217, 253, 145, 0.10)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738836000000,
-      "xMax": 1738837200000,
-      "yMin": 2855.775,
-      "yMax": 2859.945,
-      "backgroundColor": "rgba(19, 38, 151, 0.01)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738848900000,
-      "xMax": 1738891200000,
-      "yMin": 2834.26,
-      "yMax": 2863.825,
-      "backgroundColor": "rgba(162, 45, 152, 0.08)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738910400000,
-      "xMax": 1738912200000,
-      "yMin": 2859.11,
-      "yMax": 2863.36,
-      "backgroundColor": "rgba(102, 184, 22, 0.03)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738912500000,
-      "xMax": 1738914600000,
-      "yMin": 2863.21,
-      "yMax": 2865.595,
-      "backgroundColor": "rgba(141, 148, 33, 0.17)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738804800000,
-      "xMax": 1738805400000,
-      "yMin": 2865.835,
-      "yMax": 2867.91,
-      "backgroundColor": "rgba(254, 22, 99, 0.19)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738821900000,
-      "xMax": 1738822500000,
-      "yMin": 2868.195,
-      "yMax": 2869.725,
-      "backgroundColor": "rgba(87, 117, 116, 0.19)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738851900000,
-      "xMax": 1738887600000,
-      "yMin": 2834.26,
-      "yMax": 2859.825,
-      "backgroundColor": "rgba(13, 184, 81, 0.13)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738888500000,
-      "xMax": 1738890900000,
-      "yMin": 2857.98,
-      "yMax": 2860.465,
-      "backgroundColor": "rgba(187, 98, 80, 0.01)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738914000000,
-      "xMax": 1738914600000,
-      "yMin": 2863.43,
-      "yMax": 2865.335,
-      "backgroundColor": "rgba(169, 134, 59, 0.14)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738853100000,
-      "xMax": 1738872300000,
-      "yMin": 2834.26,
-      "yMax": 2856.765,
-      "backgroundColor": "rgba(141, 234, 236, 0.02)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738874400000,
-      "xMax": 1738875000000,
-      "yMin": 2853.895,
-      "yMax": 2856.085,
-      "backgroundColor": "rgba(161, 44, 157, 0.02)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738875600000,
-      "xMax": 1738878000000,
-      "yMin": 2855.01,
-      "yMax": 2856.93,
-      "backgroundColor": "rgba(134, 194, 119, 0.06)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738878300000,
-      "xMax": 1738884000000,
-      "yMin": 2855.86,
-      "yMax": 2857.25,
-      "backgroundColor": "rgba(148, 82, 164, 0.20)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738885200000,
-      "xMax": 1738886400000,
-      "yMin": 2856.875,
-      "yMax": 2858.84,
-      "backgroundColor": "rgba(170, 34, 251, 0.04)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738890300000,
-      "xMax": 1738890900000,
-      "yMin": 2858.485,
-      "yMax": 2860.11,
-      "backgroundColor": "rgba(88, 3, 223, 0.10)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738855200000,
-      "xMax": 1738856100000,
-      "yMin": 2844.025,
-      "yMax": 2847.715,
-      "backgroundColor": "rgba(52, 115, 69, 0.20)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738857000000,
-      "xMax": 1738858500000,
-      "yMin": 2849.23,
-      "yMax": 2853.24,
-      "backgroundColor": "rgba(41, 203, 69, 0.09)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738860000000,
-      "xMax": 1738871400000,
-      "yMin": 2848.18,
-      "yMax": 2853.905,
-      "backgroundColor": "rgba(97, 1, 250, 0.15)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738861500000,
-      "xMax": 1738864200000,
-      "yMin": 2848.87,
-      "yMax": 2851.92,
-      "backgroundColor": "rgba(183, 50, 199, 0.05)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738864500000,
-      "xMax": 1738865100000,
+      "xMin": 1738864800000,
+      "xMax": 1738865400000,
       "yMin": 2851.28,
-      "yMax": 2852.69,
-      "backgroundColor": "rgba(88, 20, 176, 0.17)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "yMax": 2852.745,
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
       "xMin": 1738867500000,
-      "xMax": 1738871400000,
-      "yMin": 2850.48,
+      "xMax": 1738868400000,
+      "yMin": 2851.785,
       "yMax": 2853.685,
-      "backgroundColor": "rgba(125, 194, 216, 0.18)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
     },
     {
       "type": "box",
-      "xMin": 1738862400000,
-      "xMax": 1738864200000,
-      "yMin": 2848.98,
-      "yMax": 2851.4,
-      "backgroundColor": "rgba(98, 103, 157, 0.16)",
-      "borderColor": "green",
-      "borderWidth": 0.5
-    },
-    {
-      "type": "box",
-      "xMin": 1738869300000,
-      "xMax": 1738871100000,
-      "yMin": 2850.48,
+      "xMin": 1738868700000,
+      "xMax": 1738870500000,
+      "yMin": 2850.645,
       "yMax": 2852.675,
-      "backgroundColor": "rgba(183, 171, 211, 0.01)",
-      "borderColor": "green",
-      "borderWidth": 0.5
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738871400000,
+      "xMax": 1738935000000,
+      "yMin": 2852.94,
+      "yMax": 2870.8,
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738935300000,
+      "xMax": 1738936200000,
+      "yMin": 2860.52,
+      "yMax": 2868.98,
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738936200000,
+      "xMax": 1738936800000,
+      "yMin": 2858.965,
+      "yMax": 2864.36,
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738937100000,
+      "xMax": 1738948800000,
+      "yMin": 2856.225,
+      "yMax": 2886.81,
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738948800000,
+      "xMax": 1738949400000,
+      "yMin": 2855.99,
+      "yMax": 2859.09,
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738951200000,
+      "xMax": 1738956600000,
+      "yMin": 2859.725,
+      "yMax": 2865.195,
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738957200000,
+      "xMax": 1738958400000,
+      "yMin": 2859.755,
+      "yMax": 2862.61,
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738958400000,
+      "xMax": 1738959900000,
+      "yMin": 2859.64,
+      "yMax": 2863.885,
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738960200000,
+      "xMax": 1738960800000,
+      "yMin": 2860.06,
+      "yMax": 2861.55,
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738962300000,
+      "xMax": 1738964100000,
+      "yMin": 2861.1,
+      "yMax": 2863.425,
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738964400000,
+      "xMax": 1738965300000,
+      "yMin": 2860.765,
+      "yMax": 2862.225,
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
+    },
+    {
+      "type": "box",
+      "xMin": 1738965000000,
+      "xMax": 1738965300000,
+      "yMin": 2860.94,
+      "yMax": 2862.225,
+      "backgroundColor": "rgba(240, 96, 96, 0.2)",
+      "borderWidth": 0.01
     }
   ]
 
+  const horizontalLines = [
+    {
+      "xMin": 1738655400000,
+      "xMax": 1738656600000,
+      "yMin": 2809.82356,
+      "yMax": 2809.82356,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738655400000,
+      "xMax": 1738656600000,
+      "yMin": 2808.71812,
+      "yMax": 2808.71812,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738656900000,
+      "xMax": 1738657200000,
+      "yMin": 2813.6063799999997,
+      "yMax": 2813.6063799999997,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738656900000,
+      "xMax": 1738657200000,
+      "yMin": 2812.16326,
+      "yMax": 2812.16326,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738657200000,
+      "xMax": 1738662000000,
+      "yMin": 2816.18101,
+      "yMax": 2816.18101,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738657200000,
+      "xMax": 1738662000000,
+      "yMin": 2815.33177,
+      "yMax": 2815.33177,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738662600000,
+      "xMax": 1738673400000,
+      "yMin": 2815.68455,
+      "yMax": 2815.68455,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738662600000,
+      "xMax": 1738673400000,
+      "yMin": 2814.0003500000003,
+      "yMax": 2814.0003500000003,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738673700000,
+      "xMax": 1738674000000,
+      "yMin": 2816.7577499999998,
+      "yMax": 2816.7577499999998,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738673700000,
+      "xMax": 1738674000000,
+      "yMin": 2815.0567499999997,
+      "yMax": 2815.0567499999997,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738675800000,
+      "xMax": 1738679100000,
+      "yMin": 2827.48987,
+      "yMax": 2827.48987,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738675800000,
+      "xMax": 1738679100000,
+      "yMin": 2824.83799,
+      "yMax": 2824.83799,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738679400000,
+      "xMax": 1738680000000,
+      "yMin": 2833.50513,
+      "yMax": 2833.50513,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738679400000,
+      "xMax": 1738680000000,
+      "yMin": 2831.53701,
+      "yMax": 2831.53701,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738680300000,
+      "xMax": 1738680600000,
+      "yMin": 2838.0364,
+      "yMax": 2838.0364,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738680300000,
+      "xMax": 1738680600000,
+      "yMin": 2837.1628,
+      "yMax": 2837.1628,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738680600000,
+      "xMax": 1738681200000,
+      "yMin": 2839.95141,
+      "yMax": 2839.95141,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738680600000,
+      "xMax": 1738681200000,
+      "yMin": 2839.5725700000003,
+      "yMax": 2839.5725700000003,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738681800000,
+      "xMax": 1738683000000,
+      "yMin": 2840.50761,
+      "yMax": 2840.50761,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738681800000,
+      "xMax": 1738683000000,
+      "yMin": 2839.43997,
+      "yMax": 2839.43997,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738683000000,
+      "xMax": 1738715400000,
+      "yMin": 2842.21241,
+      "yMax": 2842.21241,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738683000000,
+      "xMax": 1738715400000,
+      "yMin": 2841.32957,
+      "yMax": 2841.32957,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738715700000,
+      "xMax": 1738717200000,
+      "yMin": 2838.64993,
+      "yMax": 2838.64993,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738715700000,
+      "xMax": 1738717200000,
+      "yMin": 2836.02661,
+      "yMax": 2836.02661,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738717200000,
+      "xMax": 1738721100000,
+      "yMin": 2845.30391,
+      "yMax": 2845.30391,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738717200000,
+      "xMax": 1738721100000,
+      "yMin": 2844.29507,
+      "yMax": 2844.29507,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738721400000,
+      "xMax": 1738725600000,
+      "yMin": 2845.1804700000002,
+      "yMax": 2845.1804700000002,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738721400000,
+      "xMax": 1738725600000,
+      "yMin": 2842.81419,
+      "yMax": 2842.81419,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738726200000,
+      "xMax": 1738728600000,
+      "yMin": 2850.42592,
+      "yMax": 2850.42592,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738726200000,
+      "xMax": 1738728600000,
+      "yMin": 2849.32384,
+      "yMax": 2849.32384,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738728600000,
+      "xMax": 1738730400000,
+      "yMin": 2854.19655,
+      "yMax": 2854.19655,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738728600000,
+      "xMax": 1738730400000,
+      "yMin": 2853.18435,
+      "yMax": 2853.18435,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738730400000,
+      "xMax": 1738734000000,
+      "yMin": 2855.30394,
+      "yMax": 2855.30394,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738730400000,
+      "xMax": 1738734000000,
+      "yMin": 2854.51938,
+      "yMax": 2854.51938,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738734300000,
+      "xMax": 1738734600000,
+      "yMin": 2856.25148,
+      "yMax": 2856.25148,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738734300000,
+      "xMax": 1738734600000,
+      "yMin": 2855.13596,
+      "yMax": 2855.13596,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738734600000,
+      "xMax": 1738736400000,
+      "yMin": 2859.04584,
+      "yMax": 2859.04584,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738734600000,
+      "xMax": 1738736400000,
+      "yMin": 2858.60568,
+      "yMax": 2858.60568,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738736700000,
+      "xMax": 1738742100000,
+      "yMin": 2859.04057,
+      "yMax": 2859.04057,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738736700000,
+      "xMax": 1738742100000,
+      "yMin": 2858.26189,
+      "yMax": 2858.26189,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738742400000,
+      "xMax": 1738743300000,
+      "yMin": 2859.01763,
+      "yMax": 2859.01763,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738742400000,
+      "xMax": 1738743300000,
+      "yMin": 2857.25951,
+      "yMax": 2857.25951,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738743600000,
+      "xMax": 1738743900000,
+      "yMin": 2864.77876,
+      "yMax": 2864.77876,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738743600000,
+      "xMax": 1738743900000,
+      "yMin": 2864.32852,
+      "yMax": 2864.32852,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738743900000,
+      "xMax": 1738744800000,
+      "yMin": 2865.5811400000002,
+      "yMax": 2865.5811400000002,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738743900000,
+      "xMax": 1738744800000,
+      "yMin": 2865.28378,
+      "yMax": 2865.28378,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738745100000,
+      "xMax": 1738747200000,
+      "yMin": 2866.65826,
+      "yMax": 2866.65826,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738745100000,
+      "xMax": 1738747200000,
+      "yMin": 2865.83002,
+      "yMax": 2865.83002,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738747200000,
+      "xMax": 1738748400000,
+      "yMin": 2867.40545,
+      "yMax": 2867.40545,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738747200000,
+      "xMax": 1738748400000,
+      "yMin": 2866.56965,
+      "yMax": 2866.56965,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738748400000,
+      "xMax": 1738750800000,
+      "yMin": 2868.08693,
+      "yMax": 2868.08693,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738748400000,
+      "xMax": 1738750800000,
+      "yMin": 2866.97561,
+      "yMax": 2866.97561,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738751400000,
+      "xMax": 1738769100000,
+      "yMin": 2872.2815100000003,
+      "yMax": 2872.2815100000003,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738751400000,
+      "xMax": 1738769100000,
+      "yMin": 2870.9702700000003,
+      "yMax": 2870.9702700000003,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738769100000,
+      "xMax": 1738770000000,
+      "yMin": 2865.89441,
+      "yMax": 2865.89441,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738769100000,
+      "xMax": 1738770000000,
+      "yMin": 2862.74357,
+      "yMax": 2862.74357,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738770600000,
+      "xMax": 1738941300000,
+      "yMin": 2877.14537,
+      "yMax": 2877.14537,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738770600000,
+      "xMax": 1738941300000,
+      "yMin": 2875.71149,
+      "yMax": 2875.71149,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738942200000,
+      "xMax": 1738942500000,
+      "yMin": 2854.07052,
+      "yMax": 2854.07052,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738942200000,
+      "xMax": 1738942500000,
+      "yMin": 2845.35804,
+      "yMax": 2845.35804,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738942800000,
+      "xMax": 1738943100000,
+      "yMin": 2883.98402,
+      "yMax": 2883.98402,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738942800000,
+      "xMax": 1738943100000,
+      "yMin": 2883.37754,
+      "yMax": 2883.37754,
+      "borderColor": "orange",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738655400000,
+      "xMax": 1738656000000,
+      "yMin": 2856.9955,
+      "yMax": 2856.9955,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738655400000,
+      "xMax": 1738656000000,
+      "yMin": 2868.7135,
+      "yMax": 2868.7135,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738656300000,
+      "xMax": 1738656600000,
+      "yMin": 2812.8525299999997,
+      "yMax": 2812.8525299999997,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738656300000,
+      "xMax": 1738656600000,
+      "yMin": 2812.44681,
+      "yMax": 2812.44681,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738656900000,
+      "xMax": 1738658100000,
+      "yMin": 2814.03346,
+      "yMax": 2814.03346,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738656900000,
+      "xMax": 1738658100000,
+      "yMin": 2812.60042,
+      "yMax": 2812.60042,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738658400000,
+      "xMax": 1738658700000,
+      "yMin": 2814.76761,
+      "yMax": 2814.76761,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738658400000,
+      "xMax": 1738658700000,
+      "yMin": 2814.53997,
+      "yMax": 2814.53997,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738659000000,
+      "xMax": 1738665300000,
+      "yMin": 2815.91939,
+      "yMax": 2815.91939,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738659000000,
+      "xMax": 1738665300000,
+      "yMin": 2814.29903,
+      "yMax": 2814.29903,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738665600000,
+      "xMax": 1738666200000,
+      "yMin": 2813.90753,
+      "yMax": 2813.90753,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738665600000,
+      "xMax": 1738666200000,
+      "yMin": 2813.50181,
+      "yMax": 2813.50181,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738666500000,
+      "xMax": 1738667400000,
+      "yMin": 2814.38803,
+      "yMax": 2814.38803,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738666500000,
+      "xMax": 1738667400000,
+      "yMin": 2813.94031,
+      "yMax": 2813.94031,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738668600000,
+      "xMax": 1738669500000,
+      "yMin": 2815.06634,
+      "yMax": 2815.06634,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738668600000,
+      "xMax": 1738669500000,
+      "yMin": 2814.58418,
+      "yMax": 2814.58418,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738670100000,
+      "xMax": 1738670400000,
+      "yMin": 2815.14097,
+      "yMax": 2815.14097,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738670100000,
+      "xMax": 1738670400000,
+      "yMin": 2814.83269,
+      "yMax": 2814.83269,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738672200000,
+      "xMax": 1738672800000,
+      "yMin": 2817.12908,
+      "yMax": 2817.12908,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738672200000,
+      "xMax": 1738672800000,
+      "yMin": 2816.1311600000004,
+      "yMax": 2816.1311600000004,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738675500000,
+      "xMax": 1738677000000,
+      "yMin": 2826.21061,
+      "yMax": 2826.21061,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738675500000,
+      "xMax": 1738677000000,
+      "yMin": 2823.21097,
+      "yMax": 2823.21097,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738677300000,
+      "xMax": 1738677600000,
+      "yMin": 2831.64172,
+      "yMax": 2831.64172,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738677300000,
+      "xMax": 1738677600000,
+      "yMin": 2831.4804400000003,
+      "yMax": 2831.4804400000003,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738679100000,
+      "xMax": 1738684800000,
+      "yMin": 2836.16219,
+      "yMax": 2836.16219,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738679100000,
+      "xMax": 1738684800000,
+      "yMin": 2833.63463,
+      "yMax": 2833.63463,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738685400000,
+      "xMax": 1738854300000,
+      "yMin": 2852.0731100000003,
+      "yMax": 2852.0731100000003,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738685400000,
+      "xMax": 1738854300000,
+      "yMin": 2843.8234700000003,
+      "yMax": 2843.8234700000003,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738856400000,
+      "xMax": 1738861200000,
+      "yMin": 2843.66763,
+      "yMax": 2843.66763,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738856400000,
+      "xMax": 1738861200000,
+      "yMin": 2840.6495099999997,
+      "yMax": 2840.6495099999997,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738862100000,
+      "xMax": 1738863300000,
+      "yMin": 2849.50583,
+      "yMax": 2849.50583,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738862100000,
+      "xMax": 1738863300000,
+      "yMin": 2848.99091,
+      "yMax": 2848.99091,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738864800000,
+      "xMax": 1738865400000,
+      "yMin": 2850.47385,
+      "yMax": 2850.47385,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738864800000,
+      "xMax": 1738865400000,
+      "yMin": 2849.85645,
+      "yMax": 2849.85645,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738867500000,
+      "xMax": 1738868400000,
+      "yMin": 2852.19871,
+      "yMax": 2852.19871,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738867500000,
+      "xMax": 1738868400000,
+      "yMin": 2851.79467,
+      "yMax": 2851.79467,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738868700000,
+      "xMax": 1738870500000,
+      "yMin": 2852.12498,
+      "yMax": 2852.12498,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738868700000,
+      "xMax": 1738870500000,
+      "yMin": 2851.97546,
+      "yMax": 2851.97546,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738871400000,
+      "xMax": 1738935000000,
+      "yMin": 2858.34421,
+      "yMax": 2858.34421,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738871400000,
+      "xMax": 1738935000000,
+      "yMin": 2854.95817,
+      "yMax": 2854.95817,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738935300000,
+      "xMax": 1738936200000,
+      "yMin": 2859.06728,
+      "yMax": 2859.06728,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738935300000,
+      "xMax": 1738936200000,
+      "yMin": 2856.3725600000002,
+      "yMax": 2856.3725600000002,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738936200000,
+      "xMax": 1738936800000,
+      "yMin": 2861.98688,
+      "yMax": 2861.98688,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738936200000,
+      "xMax": 1738936800000,
+      "yMin": 2861.34176,
+      "yMax": 2861.34176,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738937100000,
+      "xMax": 1738948800000,
+      "yMin": 2869.60179,
+      "yMax": 2869.60179,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738937100000,
+      "xMax": 1738948800000,
+      "yMin": 2864.92383,
+      "yMax": 2864.92383,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738948800000,
+      "xMax": 1738949400000,
+      "yMin": 2857.31943,
+      "yMax": 2857.31943,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738948800000,
+      "xMax": 1738949400000,
+      "yMin": 2856.83811,
+      "yMax": 2856.83811,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738951200000,
+      "xMax": 1738956600000,
+      "yMin": 2859.5063099999998,
+      "yMax": 2859.5063099999998,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738951200000,
+      "xMax": 1738956600000,
+      "yMin": 2857.9598699999997,
+      "yMax": 2857.9598699999997,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738957200000,
+      "xMax": 1738958400000,
+      "yMin": 2860.82707,
+      "yMax": 2860.82707,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738957200000,
+      "xMax": 1738958400000,
+      "yMin": 2860.34239,
+      "yMax": 2860.34239,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738958400000,
+      "xMax": 1738959900000,
+      "yMin": 2861.33266,
+      "yMax": 2861.33266,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738958400000,
+      "xMax": 1738959900000,
+      "yMin": 2860.63882,
+      "yMax": 2860.63882,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738960200000,
+      "xMax": 1738960800000,
+      "yMin": 2860.36962,
+      "yMax": 2860.36962,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738960200000,
+      "xMax": 1738960800000,
+      "yMin": 2860.0487399999997,
+      "yMax": 2860.0487399999997,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738962300000,
+      "xMax": 1738964100000,
+      "yMin": 2861.34543,
+      "yMax": 2861.34543,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738962300000,
+      "xMax": 1738964100000,
+      "yMin": 2860.78011,
+      "yMax": 2860.78011,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738964400000,
+      "xMax": 1738965300000,
+      "yMin": 2861.5297499999997,
+      "yMax": 2861.5297499999997,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738964400000,
+      "xMax": 1738965300000,
+      "yMin": 2861.34075,
+      "yMax": 2861.34075,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    },
+    {
+      "xMin": 1738965000000,
+      "xMax": 1738965300000,
+      "yMin": 2861.3227199999997,
+      "yMax": 2861.3227199999997,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.618"
+    },
+    {
+      "xMin": 1738965000000,
+      "xMax": 1738965300000,
+      "yMin": 2861.07744,
+      "yMax": 2861.07744,
+      "borderColor": "red",
+      "borderWidth": 1,
+      "typeof": "0.786"
+    }
+  ]
+  
+  const textLabels = [
+    {
+      xValue: 1738656000000,
+      yValue: 2812.5,
+      content: ["Important Level"],
+      font: {
+        size: 6,
+        weight: "bold",
+      },
+      backgroundColor: "rgba(0, 0, 0, 0.5)",
+      color: "white",
+      textAlign: "center"
+    }
+  ];
+
+  let annotations = rectangles.reduce((acc, rect, index) => {
+    acc[`rectangle${index + 1}`] = {
+      type: "box",
+      xMin: rect.xMin,
+      xMax: rect.xMax,
+      yMin: rect.yMin,
+      yMax: rect.yMax,
+      backgroundColor: rect.backgroundColor,
+      borderWidth: rect.borderWidth,
+    };
+    return acc;
+  }, {});
+
+  horizontalLines.forEach((line, index) => {
+    annotations[`horizontalLine${index + 1}`] = {
+      type: "line",
+      xMin: line.xMin,
+      xMax: line.xMax,
+      yMin: line.yMin,
+      yMax: line.yMax,
+      borderColor: line.borderColor,
+      borderWidth: line.borderWidth,
+      borderDash: line.borderDash || [],
+    };
+  });
+
+  textLabels.forEach((label, index) => {
+    annotations[`textLabel${index + 1}`] = {
+      type: "label",
+      xValue: label.xValue,
+      yValue: label.yValue,
+      content: label.content,
+      font: label.font,
+      backgroundColor: label.backgroundColor,
+      color: label.color,
+      textAlign: label.textAlign,
+    };
+  });
+
+  
 
   const data = {
     datasets: [
@@ -1359,19 +1811,7 @@ const CandlestickChart = () => {
       },
       // (Optional) Annotation configuration
       annotation: {
-        annotations: rectangles.reduce((acc, rect, index) => {
-          acc[`rectangle${index + 1}`] = {
-            type: "box",
-            xMin: rect.xMin,
-            xMax: rect.xMax,
-            yMin: rect.yMin,
-            yMax: rect.yMax,
-            backgroundColor: rect.backgroundColor,
-            borderColor: rect.borderColor,
-            borderWidth: rect.borderWidth,
-          };
-          return acc;
-        }, {}),
+        annotations: annotations,
       },
       zoom: {
         pan: {
